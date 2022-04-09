@@ -1,0 +1,8 @@
+﻿  lab5-6-klient.cpp
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-klient\lab5-6-klient.cpp(56,62): error C2065: 'GWL_HINSTANCE': undeclared identifier
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-klient\lab5-6-klient.cpp(60,26): error C2440: '=': cannot convert from 'long (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'WNDPROC'
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-klient\lab5-6-klient.cpp(60,19): message : This conversion requires a reinterpret_cast, a C-style cast or function-style cast
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-klient\lab5-6-klient.cpp(76,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-klient\lab5-6-klient.cpp(118,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-klient\lab5-6-klient.cpp(124,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-klient\lab5-6-klient.cpp(183,23): warning C4244: 'return': conversion from 'LRESULT' to 'long', possible loss of data

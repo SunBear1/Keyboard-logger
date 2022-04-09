@@ -1,0 +1,6 @@
+﻿  lab5-6-ofiara.cpp
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-ofiara\lab5-6-ofiara.cpp(133,51): warning C4805: '^': unsafe mix of type 'SHORT' and type 'bool' in operation
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-ofiara\lab5-6-ofiara.cpp(46,6): warning C4101: 'hdc': unreferenced local variable
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-ofiara\lab5-6-ofiara.cpp(48,10): warning C4101: 'hglb': unreferenced local variable
+D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-ofiara\lab5-6-ofiara.cpp(47,14): warning C4101: 'ps': unreferenced local variable
+  lab5-6-ofiara.vcxproj -> D:\Politechnika\SEM4\PRZETWARZANIE ROZPROSZONE\lab5-6-ofiara\Debug\lab5-6-ofiara.exe
